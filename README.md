@@ -16,6 +16,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 - [Lv_0 합성수 찾기](https://github.com/devKobe24/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/120846.%E2%80%85%ED%95%A9%EC%84%B1%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0)
 - [Lv_0 A로 B 만들기](https://github.com/devKobe24/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/120886.%E2%80%85A%EB%A1%9C%E2%80%85B%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [Lv_0 2차원으로 만들기](https://github.com/devKobe24/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/120842.%E2%80%852%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [Lv_0 k의 개수](https://github.com/devKobe24/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/120887.%E2%80%85k%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98)
 
 ## Lv_1
 - [Lv_1 약수의 합](https://github.com/devKobe24/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12928.%E2%80%85%EC%95%BD%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9)
