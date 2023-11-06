@@ -39,6 +39,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | 23.11.03(금)     | "Lv_0 A로 B만들기 문제를 해결하였습니다."|
 | 23.11.03(금)     | "Lv_0 2차원으로 만들기 문제를 해결하였습니다."|
 | 23.11.03(금)     | "Lv_0 k의 개수 문제를 해결하였습니다."|
+| 23.11.07(화)     | "Lv_0 뒤에서 5등 위로 문제를 해결하였으나, 프로그래머스 상에서 에러가 나는 경우를 발견하 실험도 병행하였습니다." |
 
 ## 📖 스터디 리스트
 ### Lv_0
@@ -53,6 +54,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 - [Lv_0 A로 B 만들기](https://github.com/devKobe24/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/120886.%E2%80%85A%EB%A1%9C%E2%80%85B%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [Lv_0 2차원으로 만들기](https://github.com/devKobe24/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/120842.%E2%80%852%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [Lv_0 k의 개수](https://github.com/devKobe24/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/120887.%E2%80%85k%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98)
+- [Lv_0 뒤에서 5등 위로](https://github.com/devKobe24/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/181852.%E2%80%85%EB%92%A4%EC%97%90%EC%84%9C%E2%80%855%EB%93%B1%E2%80%85%EC%9C%84%EB%A1%9C)
 ### Lv_1
 - [Lv_1 약수의 합](https://github.com/devKobe24/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12928.%E2%80%85%EC%95%BD%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9)
 - [Lv_1 나머지가 1이 되는 수 찾기](https://github.com/devKobe24/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/87389.%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%E2%80%851%EC%9D%B4%E2%80%85%EB%90%98%EB%8A%94%E2%80%85%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0)
