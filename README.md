@@ -48,6 +48,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | 23.11.09(목)     | "Lv_0 공배수 문제를 해결하였습니다." |
 | 23.11.09(목)     | "Lv_0 대문자로 바꾸기 문제를 해결하였습니다." |
 | 23.11.10(금)     | "Lv_0 n의 배수 문제를 해결하였습니다." |
+| 23.11.10(금)     | "Lv_0 정수 부분 문제를 해결하였습니다." |
 
 ## 📖 스터디 리스트
 ### Lv_0
@@ -69,6 +70,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 - [Lv_0 공배수](https://github.com/devKobe24/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/181936.%E2%80%85%EA%B3%B5%EB%B0%B0%EC%88%98)
 - [Lv_0 대문자로 바꾸기](https://github.com/devKobe24/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/181877.%E2%80%85%EB%8C%80%EB%AC%B8%EC%9E%90%EB%A1%9C%E2%80%85%EB%B0%94%EA%BE%B8%EA%B8%B0)
 - [Lv_0 n의 배수](https://github.com/devKobe24/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/181937.%E2%80%85n%EC%9D%98%E2%80%85%EB%B0%B0%EC%88%98)
+- [Lv_0 정수 부분](https://github.com/devKobe24/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/181850.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EB%B6%80%EB%B6%84)
 
 ### Lv_1
 - [Lv_1 약수의 합](https://github.com/devKobe24/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12928.%E2%80%85%EC%95%BD%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9)
